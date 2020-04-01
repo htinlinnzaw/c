@@ -1,0 +1,3 @@
+/media/root/ad5e01ce-e915-406e-b7d8-c911e13a3cd4/c-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/root/ad5e01ce-e915-406e-b7d8-c911e13a3cd4/c-project/cmake-build-debug/CMakeFiles/c_project.dir
+/media/root/ad5e01ce-e915-406e-b7d8-c911e13a3cd4/c-project/cmake-build-debug/CMakeFiles/edit_cache.dir
